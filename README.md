@@ -1,6 +1,6 @@
 ### Olá, eu sou Rhaynner! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhaynner-cunha-liberato-65745431/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhaynner-liberato/)
 
 ![Rhaynner GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhaynnerliberato&show_icons=true&theme=dracula)
 
