@@ -34,11 +34,13 @@ I have a degree in Systems Analysis and Development from the University of Vila 
 
 Some specific courses I took:
 
-Full Stack JavaScript PRO;
-CSharp Programming;
-Angular Programming;
-Oracle PL/SQL;
+- Full Stack JavaScript PRO;
+- CSharp Programming;
+- Angular Programming;
+- Oracle PL/SQL;
+- ASP.NET Core and REST APIs;
+- DevOps and Agile Culture;
 
-I have experience with full stack development of web applications, applications that integrate with third-party systems. Programming, in addition to work, is also my hobby. When I have free time I like to develop projects in parallel.
+I have experience with full stack development of web applications, applications with microservices architecture and REST APIs.
 <br><hr>
 e-mail: rhay_liberato@hotmail.com
